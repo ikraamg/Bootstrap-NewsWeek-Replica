@@ -1,5 +1,5 @@
 * {
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 body {
@@ -9,6 +9,7 @@ body {
 
   /* max-width: 1310px; */
   margin: 0 auto;
+  min-width: 367px;
 }
 
 h1,
@@ -62,9 +63,44 @@ svg {
   color: black;
 }
 
+.redhover:hover {
+  color: red;
+}
+
+.red-top {
+  border-top: 5px solid rgb(241, 12, 69);
+  padding-top: 1px;
+}
+
+.blue-top {
+  border-top: 5px solid rgb(43, 32, 189);
+  padding-top: 1px;
+}
+
+.circle {
+  width: 40px;
+  height: 40px;
+  background-color: #000;
+  color: #d6d6d6;
+  border-radius: 50%;
+  text-align: center;
+  padding-top: 10px;
+  margin: 15px auto;
+}
+
 img {
   width: 100%;
   object-fit: contain;
+}
+
+.the-debate img {
+  height: 95px;
+  width: 95px;
+}
+
+.the-debate .face {
+  height: 63px;
+  width: 63px;
 }
 
 .opinion img {
@@ -84,27 +120,21 @@ img {
 }
 
 .sign-up {
-
 }
 
 .in-magazine {
- 
 }
 
 .editors-pick {
- 
 }
 
 .slideshows {
- 
 }
 
 .subscribe {
-
 }
 
 .newsletter {
-
 }
 
 footer {
