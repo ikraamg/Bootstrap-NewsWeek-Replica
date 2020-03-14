@@ -40,6 +40,10 @@ h5 {
   font-size: 17px;
 }
 
+h5:hover{
+  color: red;
+}
+
 h6 {
   font-size: 14px;
 }
@@ -51,6 +55,10 @@ svg {
 
 .grey {
   color: rgba(39, 39, 39, 0.5);
+}
+
+.red {
+  color: red;
 }
 
 .greydark {
@@ -119,11 +127,12 @@ img {
   margin-left: 25px;
   margin-top: 10px;
 }
-.n-header{
+
+.n-header {
   margin: 0 5px;
 }
 
-.n-header-container{
+.n-header-container {
   padding: 10px 0;
   margin: 0 auto;
 }
@@ -173,7 +182,7 @@ img {
   font-weight: bold;
   color: red;
   font-size: 16px;
-  background-color: #f4f5f6;
+  background-color: #f4f5f6e7;
   margin-left: -12px;
 }
 
@@ -182,6 +191,14 @@ img {
   background-color: red;
   margin-right: 10px;
   padding: 4px 7px;
+}
+
+.blocks {
+  font-size: 20px;
+  background-image: url(https://g.newsweek.com/themes/newsweek/images/icon-slideshows-nw.png);
+  background-repeat: no-repeat;
+  background-position: -5px -3px;
+  background-size: 120%;
 }
 
 footer {
