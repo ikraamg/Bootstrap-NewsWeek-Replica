@@ -40,7 +40,7 @@ h5 {
   font-size: 17px;
 }
 
-h5:hover{
+h5:hover {
   color: red;
 }
 
@@ -63,6 +63,10 @@ svg {
 
 .greydark {
   color: #555;
+}
+
+.f4-colour {
+  background-color: #f4f5f6;
 }
 
 .h1-link {
@@ -117,6 +121,37 @@ img {
 .opinion img {
   height: 63px;
   width: 63px;
+}
+
+.subscribe {
+  padding-bottom: 20px;
+}
+
+.subscribe img {
+  width: 170px;
+  height: 227px;
+}
+
+.newsletter img {
+  object-fit: cover;
+  max-width: 40%;
+  height: 240px;
+}
+
+.spacer {
+  width: 180px;
+  height: 50px;
+}
+
+.spacer2 {
+  width: 20px;
+  height: 50px;
+}
+
+.img2 {
+  position: absolute;
+  top: 15px;
+  left: 90px;
 }
 
 .n-icon {
@@ -202,6 +237,11 @@ img {
 }
 
 footer {
-  height: 500px;
-  background-color: #532;
+  background-color: #f3f4f5;
+  color: grey;
+}
+
+.footer-brand svg {
+  fill: red;
+  width: 540px;
 }
