@@ -1,5 +1,5 @@
 * {
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 html {
@@ -52,6 +52,7 @@ svg {
   fill: white;
   width: 100%;
 }
+
 
 .grey {
   color: rgba(39, 39, 39, 0.5);
@@ -239,9 +240,42 @@ img {
 footer {
   background-color: #f3f4f5;
   color: grey;
+  width: 97%;
+  margin: 0 auto;
+}
+
+.small-p {
+  margin-left: -300px;
 }
 
 .footer-brand svg {
   fill: red;
   width: 540px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+footer ul {
+  list-style: none;
+  font-size: 14px;
+}
+
+footer ul li {
+  display: inline;
+  border-left: 2px solid;
+  padding-left: 10px;
+}
+
+.first {
+  border: 0;
+  font-weight: bold;
+}
+
+.first-low {
+  border: 0;
+}
+
+.fab {
+  font-size: 28px;
+  margin: 10px 6px;
 }
