@@ -281,6 +281,16 @@ nav p {
     );
 }
 
+.more-stories2 {
+  position: sticky;
+  top: 0;
+}
+
+.feat-stories {
+  position: sticky;
+  top: -590px;
+}
+
 header ul {
   font-size: 17.5px;
   font-weight: bold;
