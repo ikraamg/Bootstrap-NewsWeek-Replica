@@ -1,5 +1,5 @@
-* {
-  border: 1px solid blue;
+main > * {
+  padding-top: 20px;
 }
 
 html {
@@ -13,10 +13,6 @@ header {
   max-width: 1310px;
   z-index: 1;
   min-width: 440px;
-}
-
-main {
-  margin-top: 80px;
 }
 
 body {
@@ -88,6 +84,16 @@ h6 {
 
 .redhover:hover {
   color: red;
+}
+
+.first-item {
+  padding-top: 170px;
+}
+
+@media (max-width: 992px) {
+  .first-item {
+    padding-top: 70px;
+  }
 }
 
 .red-top {
@@ -165,7 +171,8 @@ img {
 .n-icon {
   width: 29px;
   height: 28px;
-  background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain
+  background:
+    url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain
     no-repeat #f72210;
   margin-left: 25px;
   margin-top: 10px;
@@ -238,8 +245,56 @@ svg {
   }
 }
 
-nav p{
+nav p {
   font-size: 18px;
+}
+
+.white-links {
+  background-color: white;
+  width: 99%;
+  margin-left: 0.5%;
+  height: 50px;
+  padding-top: 10px;
+}
+
+.redblock {
+  height: 25px;
+  width: 100%;
+  margin: 0;
+  margin-top: -10px;
+}
+
+.sec3 {
+  width: 80px;
+  background-color: red;
+}
+
+.sec2 {
+  width: 10px;
+  background:
+    linear-gradient(
+      to top right,
+      white,
+      white 49%,
+      #f72210 50%,
+      #f72210
+    );
+}
+
+header ul {
+  font-size: 17.5px;
+  font-weight: bold;
+  color: black;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+header input {
+  width: 55px;
+  border: 0;
+}
+
+.spacernav {
+  width: 40px;
 }
 
 .sign-up .container {
@@ -248,6 +303,7 @@ nav p{
 
 .sign-up-width {
   max-width: 300px;
+  margin-top: 20px;
 }
 
 .sign-up button {
