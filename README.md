@@ -1,23 +1,22 @@
 [![hire-badge](https://img.shields.io/badge/Consult%20/%20Hire%20Ikraam-Click%20to%20Contact-brightgreen)](mailto:consult.ikraam@gmail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/GhoorIkraam?label=Follow%20Ikraam%20on%20Twitter&style=social)](https://twitter.com/GhoorIkraam)
 
-# Project Name
+# Bootstrap-NewsWeek-Repilca
 
-> One paragraph statement about the project.
+> Building a "from-scratch" replica of the news site, newsweek.com, using the Bootstrap framework.
 
 ![screenshot](ss.png)
 
-Additional description about the project and its features.
+This project was built with the intention of gaining confidence in using bootstrap, therefore the original website was only used for the images and content
 
 ## Built With
 
 - HTML 5
 - CSS 3
-- frameworks,
-- technologies used
+- Bootstrap 4
 
 ## Live Demo
 
-[Live Demo Link](https://ikraamg.github.io/<REPO_NAME>)
+[Live Demo Link](https://ikraamg.github.io/Bootstrap-NewsWeek-Replica)
 
 ## Getting Started
 
@@ -27,18 +26,10 @@ To get a local copy up and running follow these steps:
 
 A browser (preferably Chrome)
 
-### Setup
-
-### Install
-
 ### Usage
 
 - Fork/Clone this project to your local machine
 - Open index.html in your browser
-
-### Run tests
-
-### Deployment
 
 ## Authors
 
@@ -53,7 +44,7 @@ A browser (preferably Chrome)
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ikraamg/<REPO_NAME>/issues)
+Feel free to check the [issues page](https://github.com/ikraamg/Bootstrap-NewsWeek-Replica/issues)
 
 Start by:
 
@@ -67,9 +58,7 @@ Start by:
 
 ### 🚀 Potential/Future Features
 
-- Improve/Add features
-- Feature 2
-- Improvement 3
+- Add varied content, instead of repeated content.
 
 ## Show your support
 
@@ -78,10 +67,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - The Odin project for the project plan
-- sanitize.css creators for the web reset
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Twitter Bootsrap Team
 
 ## 📝 License
 
