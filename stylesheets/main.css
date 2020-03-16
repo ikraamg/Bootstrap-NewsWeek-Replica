@@ -22,6 +22,7 @@ body {
   max-width: 1310px;
   margin: 0 auto;
   min-width: 440px;
+  overflow-x: hidden;
 }
 
 h1,
