@@ -2,11 +2,11 @@
 
 # Bootstrap-NewsWeek-Repilca
 
-> Building a "from-scratch" replica of the news site, newsweek.com, using the Bootstrap framework.
+> Building a "from-scratch" responsive replica of the news site, newsweek.com, using the Bootstrap framework.
 
 ![screenshot](ss.png)
 
-This project was built with the intention of gaining confidence in using bootstrap, therefore the original website was only used for the images and content
+This project was built with the intention of gaining confidence in using bootstrap, therefore the original website was only used for the images and content. Layout and responsive functionality was built from scratch.
 
 ## Built With
 
